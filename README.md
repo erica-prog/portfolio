@@ -51,38 +51,4 @@ Here are some of the projects I have worked on:
 
 Feel free to reach out to me via [email](mailto:atomamaro@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/erika-atoma-a71917186).
 
----
 
-<style>
-/* Background color for the main sections */
-body {
-    background-color: #f5f5f5;
-}
-
-/* Header color */
-h1, h2, h3 {
-    color: #2c3e50;
-}
-
-/* Link color */
-a {
-    color: #2980b9;
-}
-
-/* Project title color */
-h3 {
-    color: #e74c3c;
-}
-
-/* Font and style */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-</style>
