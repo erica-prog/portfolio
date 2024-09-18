@@ -19,13 +19,13 @@ Currently, I finished my BSc Economics in the London School of Economics and Pol
 
 Here are some of the projects I have worked on:
 
-### 1. Project Title
+### 1. Mortgage delinquency rate and Unemployment in the Black community 
 
 ![Project Image](project-image-url)
 
 **Description:** A brief description of the project. What did you do? What was the outcome?
 
-**Tools:** Python, Pandas, Scikit-learn
+**Tools:** Python, Pandas, Plotly
 
 [View Project](project-link)
 
