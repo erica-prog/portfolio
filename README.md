@@ -1,5 +1,3 @@
-# portfolio
-
 # Erika Atoma's Data Science Portfolio
 
 Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
