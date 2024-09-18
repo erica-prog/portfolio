@@ -33,7 +33,7 @@ Here are some of the projects I have worked on:
 
 **Tools:** Python, Machine learning models
 
-[project-link)](https://github.com/erica-prog/Airbnb-revised-work-)
+[project-link](https://github.com/erica-prog/Airbnb-revised-work-)
 
 ## Skills
 
