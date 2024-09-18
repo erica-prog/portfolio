@@ -39,6 +39,8 @@ Here are some of the projects I have worked on:
 
 ### 3. Option Pricing (AAPL stock)
 
+<img width="1035" alt="distribtion of strike prices (Option Pricing)" src="https://github.com/user-attachments/assets/957a7ffd-f2a5-463b-bf9d-6a96e4810342">
+
 **Description:** My contribution to the Option Pricing presentation for a Data Science Project Presentation Competition 
 
 **Tools:** Python
