@@ -19,6 +19,8 @@ Here are some of the projects I have worked on:
 
 ### 1. Mortgage delinquency rate and Unemployment in the Black community in the US
 
+![mortgage_unemploymentBlack](https://github.com/user-attachments/assets/f39ad2b9-5d62-4ede-ae15-2a613e4fd845)
+
 **Description:** To see the correlation between the commercial mortgage delinquency rate in single households and unemployment in the black community. 
 
 **Tools:** Python, Pandas, Plotly
