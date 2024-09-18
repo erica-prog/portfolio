@@ -17,11 +17,13 @@ Currently, I finished my BSc Economics in the London School of Economics and Pol
 
 Here are some of the projects I have worked on:
 
-### 1. Mortgage delinquency rate and Unemployment in the Black community in the US (2024)
+### 1. Mortgage delinquency rate and Unemployment in the Black community in the US (2024) 
 
 ![mortgage_unemploymentBlack](https://github.com/user-attachments/assets/f39ad2b9-5d62-4ede-ae15-2a613e4fd845)
 
 **Description:** To see the correlation between the commercial mortgage delinquency rate in single households and unemployment in the black community. 
+
+**Data:** FRED API
 
 **Tools:** Python, Pandas, Plotly
 
@@ -33,6 +35,8 @@ Here are some of the projects I have worked on:
 
 **Description:** My contribution to the Option Pricing presentation for a Data Science Project Presentation Competition 
 
+**Data:** yfinance API
+
 **Tools:** Python
 
 [project-link](https://github.com/erica-prog/Option-Pricing-/tree/main)
@@ -42,6 +46,8 @@ Here are some of the projects I have worked on:
 ![reviews (nltk top words)](https://github.com/user-attachments/assets/851263dc-740b-4513-95b1-ce2b389c94f1)
 
 **Description:** More data exploration on airbnb house prices and reviews using machine learning models
+
+**Data:** [InsideAirbnb](http://insideairbnb.com/london/)
 
 **Tools:** Python, Machine learning models (NLTK, Scikit-learn)
 
