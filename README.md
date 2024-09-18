@@ -17,7 +17,7 @@ Currently, I finished my BSc Economics in the London School of Economics and Pol
 
 Here are some of the projects I have worked on:
 
-### 1. Mortgage delinquency rate and Unemployment in the Black community in the US
+### 1. Mortgage delinquency rate and Unemployment in the Black community in the US (2024)
 
 ![mortgage_unemploymentBlack](https://github.com/user-attachments/assets/f39ad2b9-5d62-4ede-ae15-2a613e4fd845)
 
@@ -27,7 +27,17 @@ Here are some of the projects I have worked on:
 
 [project-link](https://github.com/erica-prog/Mortage-rate-deliquency_Unemployment)
 
-### 2. Airbnb House Prices (machine learning)
+### 2. Option Pricing (AAPL stock) (2023)
+
+<img width="1035" alt="distribtion of strike prices (Option Pricing)" src="https://github.com/user-attachments/assets/957a7ffd-f2a5-463b-bf9d-6a96e4810342">
+
+**Description:** My contribution to the Option Pricing presentation for a Data Science Project Presentation Competition 
+
+**Tools:** Python
+
+[project-link](https://github.com/erica-prog/Option-Pricing-/tree/main)
+
+### 1. Airbnb House Prices (machine learning) (2022)
 
 ![reviews (nltk top words)](https://github.com/user-attachments/assets/851263dc-740b-4513-95b1-ce2b389c94f1)
 
@@ -37,15 +47,6 @@ Here are some of the projects I have worked on:
 
 [project-link](https://github.com/erica-prog/Airbnb-revised-work-)
 
-### 3. Option Pricing (AAPL stock)
-
-<img width="1035" alt="distribtion of strike prices (Option Pricing)" src="https://github.com/user-attachments/assets/957a7ffd-f2a5-463b-bf9d-6a96e4810342">
-
-**Description:** My contribution to the Option Pricing presentation for a Data Science Project Presentation Competition 
-
-**Tools:** Python
-
-[project-link](https://github.com/erica-prog/Option-Pricing-/tree/main)
 
 
 
