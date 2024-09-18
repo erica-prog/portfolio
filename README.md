@@ -21,31 +21,27 @@ Here are some of the projects I have worked on:
 
 ### 1. Mortgage delinquency rate and Unemployment in the Black community 
 
-![Project Image](project-image-url)
-
-**Description:** A brief description of the project. What did you do? What was the outcome?
+**Description:** To see the correlation between the mortgage delinquency rate and unemployment 
 
 **Tools:** Python, Pandas, Plotly
 
 [View Project](project-link)
 
-### 2. Another Project
+### 2. Airbnb House Prices (machine learning)
 
-![Project Image](another-project-image-url)
+**Description:** More data exploration on airbnb house prices and reviews using machine learning models
 
-**Description:** A brief description of the project. What did you do? What was the outcome?
-
-**Tools:** R, ggplot2, Shiny
+**Tools:** Python, Machine learning models
 
 [View Project](another-project-link)
 
 ## Skills
 
 - **Programming Languages:** Python, R, SQL
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
 - **Machine Learning:** Regression, Classification, Clustering
-- **Other:** Git, Docker, AWS
+- **Other:** Git
 
 ## Contact
 
