@@ -25,7 +25,7 @@ Here are some of the projects I have worked on:
 
 **Tools:** Python, Pandas, Plotly
 
-[View Project](project-link)
+[project-link](https://github.com/erica-prog/Mortage-rate-deliquency_Unemployment)
 
 ### 2. Airbnb House Prices (machine learning)
 
