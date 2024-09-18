@@ -10,7 +10,7 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 
 ## About Me
 
-Hello! I'm Erika Atoma, an aspiring data scientist with a passion for turning data into actionable insights. I specialize in machine learning, data visualization, and statistical analysis.
+Hello! I'm Erika Atoma, an aspiring data scientist with a passion for turning data into actionable insights. I explore machine learning, data visualization, and statistical analysis.
 Currently, I finished my BSc Economics in the London School of Economics and Political Science. Now, I am studying MS in Data Science in the American University, Washington D.C.
 
 ## Projects
