@@ -54,5 +54,6 @@ Here are some of the projects I have worked on:
 ## Contact
 
 Feel free to reach out to me via [email](mailto:atomamaro@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/erika-atoma-a71917186).
+I am a entry writer in Medium to write anything related about data [Medium](https://medium.com/@atomamaro/mastering-key-shortcuts-in-r-studio-mac-users-6cde8a28f17f)
 
 
