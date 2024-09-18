@@ -27,6 +27,8 @@ Here are some of the projects I have worked on:
 
 ### 2. Airbnb House Prices (machine learning)
 
+![reviews (nltk top words)](https://github.com/user-attachments/assets/851263dc-740b-4513-95b1-ce2b389c94f1)
+
 **Description:** More data exploration on airbnb house prices and reviews using machine learning models
 
 **Tools:** Python, Machine learning models (NLTK, Scikit-learn)
