@@ -29,7 +29,7 @@ Here are some of the projects I have worked on:
 
 **Description:** More data exploration on airbnb house prices and reviews using machine learning models
 
-**Tools:** Python, Machine learning models
+**Tools:** Python, Machine learning models (NLTK, Scikit-learn)
 
 [project-link](https://github.com/erica-prog/Airbnb-revised-work-)
 
