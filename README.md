@@ -57,7 +57,7 @@ Here are some of the projects I have worked on:
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
 - **Machine Learning:** Regression, Classification, Clustering
 - **Other:** Git
-- **Medium writing**: I am an entry data writer in Medium [Medium](https://medium.com/@atomamaro/mastering-key-shortcuts-in-r-studio-mac-users-6cde8a28f17f).
+- **Medium writing**: I am an entry data writer in Medium [Medium](https://medium.com/@atomamaro/mastering-key-shortcuts-in-r-studio-mac-users-6cde8a28f17f)
 
 ## Contact
 
