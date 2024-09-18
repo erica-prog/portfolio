@@ -39,6 +39,9 @@ Here are some of the projects I have worked on:
 
 **Tools:** Python
 
+[project-link](https://github.com/erica-prog/Option-Pricing-/tree/main)
+
+
 
 ## Skills
 
