@@ -33,6 +33,13 @@ Here are some of the projects I have worked on:
 
 [project-link](https://github.com/erica-prog/Airbnb-revised-work-)
 
+## 3. Option Pricing (AAPL stock)
+
+**Description:** My contribution to the Option Pricing presentation for a Data Science Project Presentation Competition 
+
+**Tools:** Python
+
+
 ## Skills
 
 - **Programming Languages:** Python, R, SQL
