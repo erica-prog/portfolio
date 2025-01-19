@@ -1,4 +1,4 @@
-# Erika Atoma's Data Science Portfolio
+# [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Erika Atoma 
 
 Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
 
