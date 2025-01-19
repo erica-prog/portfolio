@@ -1,4 +1,4 @@
-# <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" width="20px"> </a> Erika Atoma
+# <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" width="40px"> </a> Erika Atoma
 
 Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
 
