@@ -3,18 +3,13 @@
 Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
 
 ## Table of Contents
-- [About Me](#about-me)
+- [Achievement](#achievemnt)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
 
-## About Me
-
-Hello! I'm Erika Atoma, an aspiring data scientist passionate about turning data into actionable insights. I explore machine learning, data visualization, and statistical analysis.
-
-I finished my BSc in Economics at the London School of Economics and Political Science. 
-
-Currently, I am studying MS in Data Science at the American University, Washington D.C.
+## Achievement
+- Recipient of Graduate Merit Scholarship Package
 
 ## Projects
 
