@@ -20,19 +20,25 @@ Here are some of the projects I have worked on:
 
 The objective of this Python project is to analyze various factors affecting Airbnb pricing. By examining data on property features, locations, and host attributes, the study identifies key determinants that influence rental prices, providing insights for hosts to optimize their listings.
 
+<br clear="left"><br>
+
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project presents a financial risk analysis of semiconductor stocks using orthogonal GARCH (O-GARCH) and Value-at-Risk (VaR)  models. The personal website was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
+<br clear="left"><br>
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/customer-segmentation.png"> **[Customer Segmentation for Micro-Targeting](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
 Implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project identifies distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
 
+<br clear="left"><br>
+
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
 Applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project aims to predict loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
 
+<br clear="left"><br>
 
 
 ## Micro Projects
