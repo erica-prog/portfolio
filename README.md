@@ -44,7 +44,7 @@ Applied Python-supervised machine learning algorithms to assess bias in mortgage
 
 ## Micro Projects
 
-Here are some of the mini-projects I have worked on:
+Here is a mini project I have worked on:
 
 - ### API scraping, Data Cleaning and Visualisation 
     - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
