@@ -10,7 +10,8 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 - [Contact](#contact)
 
 ## Achievements
-- Recipient of Graduate Merit Scholarship Package at American University (2024)
+- Recipient of Graduate Merit Scholarship Package at American University, Washington D.C (2024)
+- Graduated with a BS in Economics from London School of Economics (LSE), United Kingdom (2024)
 
 ## Projects
 
