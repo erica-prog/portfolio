@@ -5,6 +5,7 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 ## Table of Contents
 - [Achievement](#achievemnt)
 - [Projects](#projects)
+- [Micro Projects](#micro-projects)
 - [Skills](#skills)
 - [Contact](#contact)
 
@@ -15,43 +16,34 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 
 Here are some of the projects I have worked on:
 
-### 1. Mortgage delinquency rate and Unemployment in the Black community in the US (2024) 
+<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/airbnb.png"> **[Airbnb Factors Influencing Prices Project](https://github.com/erica-prog/Airbnb-factors-prices-project)**
 
-![mortgage_unemploymentBlack](https://github.com/user-attachments/assets/f39ad2b9-5d62-4ede-ae15-2a613e4fd845)
+The objective of this Python project is to analyze various factors affecting Airbnb pricing. By examining data on property features, locations, and host attributes, the study identifies key determinants that influence rental prices, providing insights for hosts to optimize their listings.
 
-**Description:** To see the correlation between the commercial mortgage delinquency rate in single households and unemployment in the black community. 
+<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize](https://github.com/erica-prog/erica-prog.github.io)**
 
-**Data:** FRED API
-
-**Tools:** Python, Pandas, Plotly
-
-[project-link](https://github.com/erica-prog/Mortage-rate-deliquency_Unemployment)
-
-### 2. Option Pricing (AAPL stock) (2023)
-
-<img width="1035" alt="distribtion of strike prices (Option Pricing)" src="https://github.com/user-attachments/assets/957a7ffd-f2a5-463b-bf9d-6a96e4810342">
-
-**Description:** My contribution to the Option Pricing presentation for a Data Science Project Presentation Competition 
-
-**Data:** yfinance API
-
-**Tools:** Python
-
-[project-link](https://github.com/erica-prog/Option-Pricing-/tree/main)
-
-### 1. Airbnb House Prices (machine learning) (2022)
-
-![reviews (nltk top words)](https://github.com/user-attachments/assets/851263dc-740b-4513-95b1-ce2b389c94f1)
-
-**Description:** More data exploration on airbnb house prices and reviews using machine learning models
-
-**Data:** [InsideAirbnb](http://insideairbnb.com/london/)
-
-**Tools:** Python, Machine learning models (NLTK, Scikit-learn)
-
-[project-link](https://github.com/erica-prog/Airbnb-revised-work-)
+This project presents a financial risk analysis of semiconductor stocks using orthogonal GARCH (O-GARCH) and Value-at-Risk (VaR)  models. The personal website was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
 
+<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/customer-segmentation.png"> **[Customer Segmentation for Micro-Targeting](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
+
+Implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project identifies distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
+
+<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
+
+Applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project aims to predict loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
+
+
+
+## Micro Projects
+
+Here are some of the mini-projects I have worked on:
+
+- ### API scraping, Data Cleaning and Visualisation 
+    - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
+
+
+## Certifications
 
 
 ## Skills
