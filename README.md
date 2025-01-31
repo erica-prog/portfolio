@@ -24,7 +24,7 @@ The objective of this Python project is to analyze various factors affecting Air
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize](https://github.com/erica-prog/erica-prog.github.io)**
 
-This project presents a financial risk analysis of semiconductor stocks using orthogonal GARCH (O-GARCH) and Value-at-Risk (VaR)  models. The personal website was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
+This project presents a financial risk analysis of semiconductor stocks using O-GARCH and Value-at-Risk (VaR)  models. The personal website was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
 <br clear="left"><br>
 
