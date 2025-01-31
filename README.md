@@ -51,6 +51,7 @@ Here are some of the mini-projects I have worked on:
 
 ## Certifications
 
+- [IBM Data Science Professional Certificate](https://github.com/erica-prog/portfolio/blob/main/certification_portfolio/IBM-Data-Science-Professional-Certification.pdf)
 
 ## Skills
 
