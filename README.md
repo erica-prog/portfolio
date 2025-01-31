@@ -9,7 +9,7 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 - [Contact](#contact)
 
 ## Achievement
-- Recipient of Graduate Merit Scholarship Package
+- Recipient of Graduate Merit Scholarship Package at American University (2024)
 
 ## Projects
 
