@@ -3,7 +3,7 @@
 Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
 
 ## Table of Contents
-- [Achievement](#achievemnt)
+- [Achievements](#achievemnt)
 - [Projects](#projects)
 - [Micro Projects](#micro-projects)
 - [Skills](#skills)
