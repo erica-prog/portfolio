@@ -11,28 +11,28 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 
 ## Achievements
 - Recipient of Graduate Merit Scholarship Package at the American University, Washington D.C (2024-)
-- Graduated with a BS in Economics from the London School of Economics (LSE), United Kingdom (2021-2024)
+- BS in Economics Graduate from the London School of Economics (LSE), United Kingdom (2021-2024)
 
 ## Projects
 
-Here are some of the projects I have worked on:
+Projects I have worked on:
 
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
-This project presents a financial risk analysis of semiconductor stocks using O-GARCH and Value-at-Risk (VaR)  models. The personal website was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
+This project presents a financial risk analysis of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models using R. The personal website to showcase the project was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
 <br clear="left"><br>
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
-I applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project aims to predict loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
+I applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project predicts loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
 
 <br clear="left"><br>
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/customer-segmentation.png"> **[SmartRetail: Customer Segmentation for Micro-Targeting](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
-I implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project identifies distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
+I implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project can identify distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
 
 <br clear="left"><br>
 
@@ -45,7 +45,7 @@ The objective of this Python project is to analyze various factors affecting Air
 
 ## Micro Projects
 
-Here is a mini project I have worked on:
+Micro project I have worked on:
 
 - ### API scraping, Data Cleaning and Visualisation 
     - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
@@ -66,6 +66,6 @@ Here is a mini project I have worked on:
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:atomamaro@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/erika-atoma-a71917186).
+You can reach out to me via [email](mailto:atomamaro@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/erika-atoma-a71917186).
 
 
