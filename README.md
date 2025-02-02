@@ -20,7 +20,7 @@ Projects I have worked on:
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
-This project presents a financial risk analysis of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models using R. The personal website to showcase the project was created using the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
+This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. By examining stock volatility and investment risks, it highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
 <br clear="left"><br>
 
