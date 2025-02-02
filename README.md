@@ -26,13 +26,13 @@ This project presents a financial risk analysis of semiconductor stocks using O-
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
-Applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project aims to predict loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
+I applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project aims to predict loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
 
 <br clear="left"><br>
 
 <img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/customer-segmentation.png"> **[SmartRetail: Customer Segmentation for Micro-Targeting](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
-Implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project identifies distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
+I implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project identifies distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
 
 <br clear="left"><br>
 
