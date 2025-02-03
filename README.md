@@ -24,7 +24,7 @@ This project analyzes the financial risk of semiconductor stocks using O-GARCH a
 
 <br clear="left"><br>
 
-<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
+<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods)**
 
 I applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project predicts loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
 
