@@ -54,6 +54,7 @@ Micro project I have worked on:
 ## Certifications
 
 - [IBM Data Science Professional Certificate](https://github.com/erica-prog/portfolio/blob/main/certification_portfolio/IBM-Data-Science-Professional-Certification.pdf)
+- Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press
 
 ## Skills
 
