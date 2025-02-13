@@ -18,7 +18,7 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 Projects I have worked on:
 
 
-<img align="left" width="250" height="150" src="https://github.com/erica-prog/portfolio/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
+<img align="left" width="250" height="150" src="/blob/main/portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
