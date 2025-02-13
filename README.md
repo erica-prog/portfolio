@@ -18,25 +18,25 @@ Welcome to my data science portfolio! Here you can find a selection of my projec
 Projects I have worked on:
 
 
-<img align="left" width="250" height="150" src="portfolio%20images/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
+<img align="left" width="250" height="150" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
 <br clear="left"><br>
 
-<img align="left" width="250" height="150" src="portfolio%20images/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods)**
+<img align="left" width="250" height="150" src="assets/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods)**
 
 I applied Python-supervised machine learning algorithms to assess bias in mortgage lending decisions. The project predicts loan approval outcomes based on applicant data, mitigating bias and improving decision-making processes in mortgage lending through data-driven insights.
 
 <br clear="left"><br>
 
-<img align="left" width="250" height="150" src="portfolio%20images/customer-segmentation.png"> **[SmartRetail: Customer Segmentation for Micro-Targeting](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
+<img align="left" width="250" height="150" src="assets/customer-segmentation.png"> **[SmartRetail: Customer Segmentation for Micro-Targeting](https://github.com/erica-prog/customer-segmentation-for-micro-targeting)**
 
 I implemented customer segmentation techniques to enhance marketing strategies using R. By analyzing consumer data, the project can identify distinct customer groups, enabling more targeted and effective marketing campaigns tailored to specific audience segments.
 
 <br clear="left"><br>
 
-<img align="left" width="250" height="150" src="portfolio%20images/airbnb.png"> **[Airbnb Housing Factors Influencing Prices Project](https://github.com/erica-prog/Airbnb-factors-prices-project)**
+<img align="left" width="250" height="150" src="assets/airbnb.png"> **[Airbnb Housing Factors Influencing Prices Project](https://github.com/erica-prog/Airbnb-factors-prices-project)**
 
 The objective of this Python project is to analyze various factors affecting Airbnb pricing. By examining data on property features, locations, and host attributes, the study identifies key determinants that influence rental prices, providing insights for hosts to optimize their listings.
 
