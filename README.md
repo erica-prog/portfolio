@@ -21,6 +21,7 @@ Projects I have worked on:
 
 <br> This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions. </br>
 
+<br clear="left"><br>
 
 <p align="center">
     <img width="500" src="assets/scrollytelling.png">
