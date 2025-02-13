@@ -1,13 +1,13 @@
-# <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" width="30px"> </a> Erika Atoma - Data Science Portfolio
+# <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" width="30px"> </a> DATA SCIENCE PORTFOLIO
 
 Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
 
 ## Table of Contents
-- [Achievements](#achievemnt)
-- [Projects](#projects)
-- [Micro Projects](#micro-projects)
-- [Skills](#skills)
-- [Contact](#contact)
+1. [Achievements](#achievemnt)
+2. [Projects](#projects)
+3. [Micro Projects](#micro-projects)
+4. [Skills](#skills)
+5. [Contact](#contact)
 
 ## Achievements
 - Recipient of Graduate Merit Scholarship Package at the American University, Washington D.C (2024-)
