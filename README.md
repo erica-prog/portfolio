@@ -21,6 +21,18 @@ Projects I have worked on:
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions.
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="assets/scrollytelling.png" width="350" height="180" style="margin-right: 15px;">
+    <div>
+        <strong><a href="https://github.com/erica-prog/erica-prog.github.io">Scrollytelling with Quarto: Close Read Prize Contest</a></strong>
+        <br>
+        This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R 
+        to assess stock volatility and investment risks. The findings are presented on a personal website built with the R 
+        library ‘qmd-lab/closeread’, HTML, and CSS.
+    </div>
+</div>
+
+
 <br clear="left"><br>
 
 <img align="left" width="250" height="150" src="assets/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods)**
