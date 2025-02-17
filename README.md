@@ -1,6 +1,6 @@
-# <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" width="30px"> </a> DATA SCIENCE PORTFOLIO
+# <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py" width="30px"> </a> DATA PORTFOLIO
 
-Welcome to my data science portfolio! Here you can find a selection of my projects and skills in data science and analytics.
+Welcome to my data portfolio! Here you can find a selection of my projects and skills in data science and analytics.
 
 ## Table of Contents
 1. [Achievements](#achievemnt)
