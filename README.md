@@ -57,7 +57,7 @@ Micro project I have worked on:
 
 ## Skills
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, R, SQL, Tableau, PowerBI
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
 - **Machine Learning:** Regression, Classification, Clustering
