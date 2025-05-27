@@ -52,8 +52,11 @@ Micro project I have worked on:
 - ### API scraping, Data Cleaning and Visualisation 
     - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
 
-- ### Lloyds Banking Data Science Job Forage Simulation: Customer Retention Enhancement through Predictive Analytics
+- ### Lloyds Banking Data Science Forage Job Simulation: Customer Retention Enhancement through Predictive Analytics
     - This [project](https://github.com/erica-prog/Lloyds_Banking_Forage_Data_Science_Customer_Churn) simulates a business-critical engagement with Lloyds Banking Group, aimed at reducing customer churn for its subsidiary, SmartBank. It leverages predictive analytics and supervised machine learning techniques to identify at-risk customers, enabling the delivery of strategic retention interventions. The case study demonstrates how data science can support financial institutions in protecting revenue, improving client satisfaction, and optimizing digital engagement channels.
+
+- ### Accenture Data Analytics and Visualization Forage Job Simulation: Social Buzz Content Popularity Data Analysis
+    - This [project](https://github.com/erica-prog/Accenture_Forage_Data_Analytics_and_Visualization/tree/main) simulates a real-world data analytics engagement with Accenture, in partnership with the fast-growing social media platform Social Buzz. The objective was to analyze the platform’s massive volume of user-generated content and determine the top-performing content categories based on aggregate popularity scores.
 
 
 
