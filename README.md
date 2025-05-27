@@ -42,12 +42,16 @@ The objective of this Python project is to analyze various factors affecting Air
 <br clear="left"><br>
 
 
-## Micro Projects
+## Micro Projects / Job Simulations 
 
 Micro project I have worked on:
 
 - ### API scraping, Data Cleaning and Visualisation 
     - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
+
+- ### Lloyds Banking Data Science Job Simulation: Customer Retention Enhancement through Predictive Analytics
+    - This [project](https://github.com/erica-prog/Lloyds_Banking_Forage_Data_Science_Customer_Churn) simulates a business-critical engagement with Lloyds Banking Group, aimed at reducing customer churn for its subsidiary, SmartBank. It leverages predictive analytics and supervised machine learning techniques to identify at-risk customers, enabling the delivery of strategic retention interventions. The case study demonstrates how data science can support financial institutions in protecting revenue, improving client satisfaction, and optimizing digital engagement channels.
+
 
 
 ## Certifications
