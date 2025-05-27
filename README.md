@@ -30,18 +30,19 @@ This project analyzes the financial risk of semiconductor stocks using O-GARCH a
 <br clear="left"><br>
 
 <table>
-<tr>
-<td width="300">
-  <img src="/assets/scrollytelling.png" alt="Scrollytelling with Quarto" width="300" height="200">
-</td>
-<td>
-
-**[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**  
-This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library `qmd-lab/closeread`, HTML, and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions.
-
-</td>
-</tr>
+  <tr>
+    <td style="vertical-align: top; padding-right: 60px;">
+      <img src="/assets/scrollytelling.png" alt="Scrollytelling with Quarto" width="300">
+    </td>
+    <td>
+      <a href="https://github.com/erica-prog/erica-prog.github.io"><strong>Scrollytelling with Quarto: Close Read Prize Contest</strong></a><br>
+      This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library <code>qmd-lab/closeread</code>, HTML, and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions.
+    </td>
+  </tr>
 </table>
+
+
+
 
 <img align="left" width="300" height="200" src="assets/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods)**
 
