@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here you can find a selection of my projects and s
 - Recipient of Graduate Merit Scholarship Package at the American University, Washington D.C (2024-)
 - BS in Economics Graduate from the London School of Economics (LSE), United Kingdom (2021-2024)
 
-**I have a [website](https://erica-prog.github.io/hilton_website/) on which you can see some of projects and blogs as a MS Data Science student**
+**I have a [website](https://erica-prog.github.io/hilton_website/) on which you can see some of projects and blogs as a MS Data Science student.**
 
 ## Projects
 
