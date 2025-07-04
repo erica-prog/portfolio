@@ -13,6 +13,8 @@ Welcome to my data portfolio! Here you can find a selection of my projects and s
 - Recipient of Graduate Merit Scholarship Package at the American University, Washington D.C (2024-)
 - BS in Economics Graduate from the London School of Economics (LSE), United Kingdom (2021-2024)
 
+**I have a [website](https://erica-prog.github.io/hilton_website/) on which you can see some of projects and blogs as a MS Data Science student**
+
 ## Projects
 
 Projects I have worked on:
@@ -22,9 +24,6 @@ Projects I have worked on:
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions. 
 
 <br clear="left"><br>
-
-
-
 
 <img align="left" width="300" height="200" src="assets/mortgage.png"> **[Assessing Bias in Mortgage Lending Using Supervised Machine Learning Methods](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods)**
 
@@ -49,21 +48,25 @@ The objective of this Python project is to analyze various factors affecting Air
 
 Micro project I have worked on:
 
-- ### API scraping, Data Cleaning and Visualisation 
-    - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
+- ### Predicting Medical Insurance Premiums with Machine Learning
+  - This class group [project](https://github.com/erica-prog/Medicial-Premium-Prediction-using-ML)- for my Regression STAT-615 class - is designed to predict medical insurance premium prices based on customer health profiles. By combining statistical modeling, tree-based machine learning, and unsupervised clustering, this project identifies key drivers of premium variation and proposes data-driven strategies for personalized pricing. As future work, I created an interactive R Shiny Dashboard to help predict medical insurance prices. Enter your personal and medical information, including age, weight, height, transplant history, chronic conditions, cancer history in the family, and number of major surgeries.
+ 
+- ### Food Consumer Price Index Inflation
+ - This class group [project](https://github.com/TEBlair/ShinyAppProj) - for my Data Science DATA-615 class -  aims to develop an interactive Shiny app that visualizes the Monthly Cost of Goods in the U.S. over the past 10 years, focusing on food Consumer Price Index (CPI) inflation using data from the Federal Reserve Economic Data (FRED). The app automates CPI data collection and applies a range of econometric and time series forecasting models—including ARIMA, SARIMA (Seasonal ARIMA), Holt-Winters, Prophet, and Simple Exponential Smoothing (SES)—to analyze trends and predict future inflation for categories like "Dairy," "Meat, "Fruit," "Baked Goods" and "Alcoholic Beverages." It also incorporates volatility modeling techniques such as GARCH (Generalized Autoregressive Conditional Heteroskedasticity) and EWMA (Exponentially Weighted Moving Average) to assess fluctuations in food prices over time, offering users an interactive, data-driven exploration of food inflation dynamics in the U.S.
 
 - ### Lloyds Banking Data Science Forage Job Simulation: Customer Retention Enhancement through Predictive Analytics
     - This [project](https://github.com/erica-prog/Lloyds_Banking_Forage_Data_Science_Customer_Churn) simulates a business-critical engagement with Lloyds Banking Group, aimed at reducing customer churn for its subsidiary, SmartBank. It leverages predictive analytics and supervised machine learning techniques to identify at-risk customers, enabling the delivery of strategic retention interventions. The case study demonstrates how data science can support financial institutions in protecting revenue, improving client satisfaction, and optimizing digital engagement channels.
 
 - ### Accenture Data Analytics and Visualization Forage Job Simulation: Social Buzz Content Popularity Data Analysis
     - This [project](https://github.com/erica-prog/Accenture_Forage_Data_Analytics_and_Visualization/tree/main) simulates a real-world data analytics engagement with Accenture, in partnership with the fast-growing social media platform Social Buzz. The objective was to analyze the platform’s massive volume of user-generated content and determine the top-performing content categories based on aggregate popularity scores.
-
-
+ 
+- ### API scraping, Data Cleaning and Visualisation 
+    - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
 
 ## Certifications
 
 - [IBM Data Science Professional Certificate](https://github.com/erica-prog/portfolio/blob/main/certification_portfolio/IBM-Data-Science-Professional-Certification.pdf)
-- [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://github.com/erica-prog/portfolio/blob/main/certification_portfolio/CertificateOfCompletion_Microsoft%20Azure%20Fundamentals%20AZ900%20Cert%20Prep%20by%20Microsoft%20Press.pdf)
+- [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://github.com/erica-prog/portfolio/blob/main/certification_portfolio/CertificateOfCompletion_Microsoft%20Azure%20Fundamentals%20AZ900%20Cert%20Prep%20by%20Microsoft%20Press.pdf) -> Passed the AZ-900 exam at June 2025
 
 ## Skills
 
@@ -76,6 +79,6 @@ Micro project I have worked on:
 
 ## Contact
 
-You can reach out to me via [email](mailto:atomamaro@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/erika-atoma-a71917186).
+You can reach out to me via [email](mailto:atomamaro@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/erika-atoma-a71917186). 
 
 
