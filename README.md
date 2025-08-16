@@ -49,13 +49,16 @@ This project develops a sophisticated machine learning framework using AdaBoost 
 
 <br clear="left"><br>
 
+<img align="left" width="300" height="200" src="assets/medical_health_insurance.png"> **[Predicting Medical Insurance Premiums with Ensemble and Gradient Boosting ML Methods](https://github.com/erica-prog/Medicial-Premium-Prediction-using-ML)**
+
+This class project develops a ML framework using XGBoost regression and K-means clustering to predict medical insurance premiums with 80.3% accuracy (R²), achieving superior performance over traditional statistical models through advanced feature engineering of health profiles including age, BMI, chronic diseases, and surgical history. The solution combines predictive modeling with risk stratification into four distinct tiers (Low to Very High Risk) and delivers actionable insights through an interactive R Shiny dashboard (as a personal future work) that enables real-time premium calculations and personalized pricing strategies for insurance underwriters.
+
+<br clear="left"><br>
+
 ## Micro Projects / Job Simulations 
 
 Micro project I have worked on:
 
-- ### Predicting Medical Insurance Premiums with Machine Learning
-    - This class group [project](https://github.com/erica-prog/Medicial-Premium-Prediction-using-ML)- for my STAT-615 Regression  class - is designed to predict medical insurance premium prices based on customer health profiles. By combining statistical modeling, tree-based machine learning, and unsupervised clustering, this project identifies key drivers of premium variation and proposes data-driven strategies for personalized pricing. As future work, I created an interactive R Shiny Dashboard to help predict medical insurance prices. The individual can enter his/her personal and medical information, including age, weight, height, transplant history, chronic conditions, cancer history in the family, and number of major surgeries.
- 
 - ### Financial News Sentiment Analysis for Stock Insights
     - This financial news analytics [project](https://github.com/erica-prog/stock_news_headlines_sentiment_analysis) - for my CS680 Data Mining class - is designed to predict the sentiment of stock headlines and assess how well different machine learning and deep learning models can classify market sentiment. By combining traditional methods like TF-IDF with SVMs and cutting-edge deep learning models like BiLSTM, BERT, and FinBERT, this project evaluates which approaches best uncover the emotional tone behind stock market news.
  
