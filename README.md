@@ -43,6 +43,11 @@ The objective of this Python project is to analyze various factors affecting Air
 
 <br clear="left"><br>
 
+<img align="left" width="300" height="200" src="assets/credit_card_customer_churn.png"> **[Capital One Fictional Company Credit Card Customer Churn](https://github.com/erica-prog/capital_one_credit_risk_customer_churn)**
+
+This project develops a sophisticated machine learning framework using AdaBoost and advanced feature engineering to predict credit card customer churn with 78.61% accuracy, achieving an exceptional 89.2% ROI through targeted retention campaigns. The solution combines SMOTEENN sampling for class imbalance, comprehensive behavioral analysis, and an interactive Streamlit dashboard to provide real-time risk assessment and actionable insights that prevent customer attrition and generate $384,750 in annual net business benefit.
+
+<br clear="left"><br>
 
 ## Micro Projects / Job Simulations 
 
