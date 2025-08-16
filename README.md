@@ -81,10 +81,12 @@ Micro project I have worked on:
 
 ## Skills
 
-- **Programming Languages:** Python, R, SQL, Tableau, PowerBI
+- **Programming Languages:** Python, R, SQL, HTML, CSS, PySpark, Apache Airflow, Tableau, Power BI, Excel
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn
 - **Data Visualization:** Matplotlib, Seaborn, ggplot2
-- **Machine Learning:** Regression, Classification, Clustering
+- **Machine Learning:** Supervised/Unsupervised Learning, Tensorflow, PyTorch
+- **Data Engineering:** ETL, Data Warehousing, Data Mining
+- **Cloud Storage:** Docker, AWS, Azure
 - **Other:** Git
 - **Medium writing**: [Medium](https://medium.com/@atomamaro/mastering-key-shortcuts-in-r-studio-mac-users-6cde8a28f17f)
 
