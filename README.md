@@ -73,6 +73,9 @@ Micro project I have worked on:
  
 - ### API scraping, Data Cleaning and Visualisation 
     - [Mortgage Rate Delinquency vs. Unemployment Analysis](https://github.com/erica-prog/Mortgages-rate-delinquency_vs_unemployment): In this file, I investigated the relationship between mortgage delinquency rates and unemployment trends using Python Plotly and FRED API. Utilizing economic data, the analysis explores correlations and potential causations, offering insights into how employment fluctuations impact mortgage repayments.
+ 
+- ### Simple Option Pricing Model (AAPL Stock)
+    - The [option pricing model] (https://github.com/erica-prog/Option-Pricing-/tree/main) looks at the call and put options for AAPL (Apple) stock. 
 
 ## Certifications
 
