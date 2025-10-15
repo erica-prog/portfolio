@@ -19,6 +19,11 @@ Welcome to my data portfolio! Here you can find a selection of my projects and s
 
 Projects I have worked on:
 
+<img align="left" width="300" height="200" src="assets/architectural%20diagram.png"> **[AWS Public Blockchain Analysis with Athena & PySpark](https://github.com/erica-prog/aws_public_blockchain_analysis_athena_pyspark)**
+
+This project explores Ethereum’s on-chain activity using AWS Athena, S3, and PySpark for large-scale SQL querying, data transformation, and visualization. Transaction-level data from the public blockchain lake was queried via `boto3`, processed in distributed Spark DataFrames, and visualized in Python. Final analysis quantifies consistent daily throughput (~1.6 M tx/day) and how gas markets, congestion, and wallet networks interact—demonstrating the power of cloud-based analytics pipelines for real-time blockchain intelligence.
+
+
 <img align="left" width="300" height="200" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions. 
