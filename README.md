@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here you can find a selection of my projects and s
 5. [Contact](#contact)
 
 ## Achievements
-- Recipient of Graduate Merit Scholarship Package at the American University, Washington D.C (2024-)
+- Recipient of Graduate Merit Scholarship Package at the American University, Washington D.C (2024-2026)
 - BSc in Economics Graduate from the London School of Economics (LSE), United Kingdom (2021-2024)
 
 **I have a [website](https://erica-prog-website.com/) on which you can see some of projects and blogs as a MS Data Science student.**
@@ -63,6 +63,10 @@ This project develops a sophisticated machine learning framework using AdaBoost 
 This class project develops a ML framework using XGBoost regression and K-means clustering to predict medical insurance premiums with 80.3% accuracy (R²), achieving superior performance over traditional statistical models through advanced feature engineering of health profiles including age, BMI, chronic diseases, and surgical history. The solution combines predictive modeling with risk stratification into four distinct tiers (Low to Very High Risk) and delivers actionable insights through an interactive R Shiny dashboard (as a personal future work) that enables real-time premium calculations and personalized pricing strategies for insurance underwriters.
 
 <br clear="left"><br>
+
+<img align="left" width="300" height="200" src="assets/medical_health_insurance.png"> **[News Framing Analysis using Mainstream Media: Context Analysis on the Pandemic using The New York Times and The Guardian](https://github.com/erica-prog/nlp_context_analysis_news/blob/main/NLP_News_Framing_Analysis_Paper.pdf)** 
+
+The pandemic highlighted deep-rooted divides in American politics, with citizens torn between differing views on mandates, responses, and public health measures, reflecting an ever-present tension. The COVID-19 pandemic revealed a deeply polarised political landscape in the U.S., where media framing signifcantly influenced public perception, shaping responses, and decisions through the crisis. This research explored media coverage of the pandemic in the United States across the Trump administration. The study revealed that both The New York Times (NYT) and The Guardian discussed the pandemic and utilized the two listed framing attributes, but the salience of these attributes varied for each media outlet. Key findings from examining individual sources showed the nuances of the media’s coverage and the differences in framing the pandemic across both mainstream media. 
 
 ## Micro Projects / Job Simulations 
 
