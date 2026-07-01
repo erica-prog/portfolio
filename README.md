@@ -28,6 +28,11 @@ This project analyzed 4.2 billion Reddit comments and submissions from June 2023
 This project explores Ethereum’s on-chain activity using AWS Athena, S3, and PySpark for large-scale SQL querying, data transformation, and visualization. Transaction-level data from the public blockchain lake was queried via `boto3`, processed in distributed Spark DataFrames, and visualized in Python. Final analysis quantifies consistent daily throughput (~1.6 M tx/day) and how gas markets, congestion, and wallet networks interact—demonstrating the power of cloud-based analytics pipelines for real-time blockchain intelligence.
 
 
+<img align="left" width="300" height="200" src="assets/pandamic_news_analysis.png"> **[News Framing Analysis using Mainstream Media: Context Analysis on the Pandemic using The New York Times and The Guardian](https://github.com/erica-prog/nlp_context_analysis_news/blob/main/NLP_News_Framing_Analysis_Paper.pdf)** 
+
+The pandemic highlighted deep-rooted divides in American politics, with citizens torn between differing views on mandates, responses, and public health measures, reflecting an ever-present tension. The COVID-19 pandemic revealed a deeply polarised political landscape in the U.S., where media framing signifcantly influenced public perception, shaping responses, and decisions through the crisis. This research explored media coverage of the pandemic in the United States across the Trump administration. The study revealed that both The New York Times (NYT) and The Guardian discussed the pandemic and utilized the two listed framing attributes, but the salience of these attributes varied for each media outlet. Key findings from examining individual sources showed the nuances of the media’s coverage and the differences in framing the pandemic across both mainstream media. 
+
+
 <img align="left" width="300" height="200" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions. 
@@ -64,9 +69,6 @@ This class project develops a ML framework using XGBoost regression and K-means 
 
 <br clear="left"><br>
 
-<img align="left" width="300" height="200" src="assets/medical_health_insurance.png"> **[News Framing Analysis using Mainstream Media: Context Analysis on the Pandemic using The New York Times and The Guardian](https://github.com/erica-prog/nlp_context_analysis_news/blob/main/NLP_News_Framing_Analysis_Paper.pdf)** 
-
-The pandemic highlighted deep-rooted divides in American politics, with citizens torn between differing views on mandates, responses, and public health measures, reflecting an ever-present tension. The COVID-19 pandemic revealed a deeply polarised political landscape in the U.S., where media framing signifcantly influenced public perception, shaping responses, and decisions through the crisis. This research explored media coverage of the pandemic in the United States across the Trump administration. The study revealed that both The New York Times (NYT) and The Guardian discussed the pandemic and utilized the two listed framing attributes, but the salience of these attributes varied for each media outlet. Key findings from examining individual sources showed the nuances of the media’s coverage and the differences in framing the pandemic across both mainstream media. 
 
 ## Micro Projects / Job Simulations 
 
